@@ -1,0 +1,107 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+h1{
+  font-size: 3.5rem;
+  /* font-family: 'Fredoka One', cursive; */
+}
+h2{
+  text-align: center;
+  margin: 25px 0 25px 0;
+}
+h3{
+  color: white;
+}
+hr {
+  margin: 1px 0;
+  border: 0;
+  text-align: center;
+}
+
+hr:before {
+  content: "\2022 \2022 \2022";
+  font-size: 50px;
+  color: #ff4c68;
+}
+
+#Home {
+  margin: 30px auto;
+  text-align: center;
+}
+.shop-name{
+  margin: 50px 0 30px 0;
+}
+.un-name{
+  margin: 5px 0 20px 0;
+}
+
+.banner {
+  margin: 55px auto;
+}
+
+.banner-img {
+  width: 700px;
+}
+
+.post {
+  padding: 0 25px;
+}
+
+.update {
+  text-align: center;
+  width: 80%;
+  margin: 75px auto;
+}
+.post{
+  padding: 35px;
+}
+
+#testimonials {
+  padding: 70px 0 50px 0;
+  background-color: #ff4c68;
+}
+.testimonial-links{
+  text-align: center;
+  margin: 30px 0;
+}
+.link{
+  margin: 0 30px;
+  color: #a6a6a4;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.link:hover{
+  text-decoration: none;
+  color: #51adcf;
+}
+.our-moto{
+  text-align: center;
+  padding: 75px;
+  width: 80%;
+  margin: 75px auto;
+  background-color: #e8e8e8;
+}
+
+.review {
+  text-align: center;
+  padding: 20px 100px;
+}
+#Gallery{
+  width: 80%;
+  margin: 75px auto;
+}
+
+#contact{
+  margin: 75px 0;
+text-align: center;
+}
+.address{
+  width: 80%;
+  margin: 75px auto;
+}
+#footer{
+  text-align: center;
+  padding: 60px 0;
+  background-color: #ff4c68;
+}
