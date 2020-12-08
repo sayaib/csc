@@ -24,6 +24,9 @@ hr:before {
   font-size: 50px;
   color: #ff4c68;
 }
+.nav-item{
+  text-align: center;
+}
 
 #Home {
   margin: 30px auto;
